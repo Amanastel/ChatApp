@@ -81,7 +81,4 @@ Activate your bot in room settings!
 - Messages saved to database
 - Messages from not logged in user will no saved to database
 
-### Screenshots
-Chat Section  
 
-Chat template i got from https://github.com/amanastel/ChatApp (thx a lot for this guy)
